@@ -1,8 +1,8 @@
 import { Box, Typography, useTheme } from "@mui/material";
-import { tokens } from "./../../theme";
-import Header from "./../../components/Header";
+import { tokens } from "../../theme";
+import Header from "../../components/Header";
 import { DataGrid } from "@mui/x-data-grid";
-import { mockDataTeam } from "./../../data/mockData";
+import { mockDataTeam } from "../../data/mockData";
 import AdminPanelSettingsOutlinedIcon from "@mui/icons-material/HomeOutlined";
 import SecurityOutlinedIcon from "@mui/icons-material/SecurityOutlined";
 import LockOpenOutlinedIcon from "@mui/icons-material/LockOpenOutlined";

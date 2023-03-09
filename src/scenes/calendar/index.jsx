@@ -106,9 +106,9 @@ const Calendar = () => {
 							listPlugin,
 						]}
 						headerToolbar={{
-							left: "prev, next today",
+							left: "prev,today,next",
 							center: "title",
-							right: "dayGridMonth, timeGridWeek, timeGridDay, listMonth",
+							right: "dayGridMonth,timeGridWeek,timeGridDay,listMonth",
 						}}
 						initialView="dayGridMonth"
 						editable={true}
