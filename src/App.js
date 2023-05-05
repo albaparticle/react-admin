@@ -66,10 +66,10 @@ function App() {
 								path="/line"
 								element={<Line />}
 							/>
-							{/* <Route
+							<Route
 								path="/geography"
 								element={<Geography />}
-							/> */}
+							/>
 						</Routes>
 					</main>
 				</div>
